@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+puts "GARBAGE CAN COMING!!!!"
+
+`say oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo`
+
+puts "CLOSE THE DOOR!"
